@@ -4,7 +4,8 @@
 # 本地测试截图与脚本 (docs/ 下的说明截图除外)
 *.png
 !docs/*.png
-final-test.ps1
+frames/
+final-test*.ps1
 
 # Claude Code 本地会话目录
 .claude/
